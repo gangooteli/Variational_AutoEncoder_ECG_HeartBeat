@@ -28,3 +28,4 @@ data is sequential in nature.
 1) Seq2Seq only
 2) Seq2Seq + Attention
 3) Attention only
+ 
