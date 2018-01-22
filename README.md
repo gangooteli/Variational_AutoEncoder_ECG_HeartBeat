@@ -28,3 +28,10 @@ data is sequential in nature.
 1) Seq2Seq only
 2) Seq2Seq + Attention
 3) Attention only
+
+
+### Produce Results
+Python used = 3.5.4
+Create an python environment and install requirements specified in requirements.txt.
+
+Use Variational_AutoEncoder_ECG_Final.ipynb to repoduce results.
