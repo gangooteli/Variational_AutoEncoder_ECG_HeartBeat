@@ -35,6 +35,8 @@ Python used = 3.5.4
 Create an python environment and install requirements specified in requirements.txt.
 
 Variational_AutoEncoder_ECG_Final.ipynb is used to perform training and check results.
+
 Inference.ipynb is used to perform inference on sample RR interval of ECG dataset.
 
+Save folder contains the saved graph and weights which is being used in Inference.
 
